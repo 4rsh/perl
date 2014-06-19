@@ -3,12 +3,12 @@
 # +--------------------------------------------+ #
 # | TweetLine - Post your Tweets via Terminal. | #
 # +--------------------------------------------+ #
-# |      Coded by @an0nks & @Kouback_TR_       | #
+# |    Coded by Arsh Leak & @Kouback_TR_       | #
 # +--------------------------------------------+ #
 # |      Blogs : koubacktr.wordpress.com       | #
 # |              doxnetwork.blogspot.com       | #
 # |                                            | #
-# |      Facebook: facebook.com/leaksec        | #
+# |     $ wget https://github.com/4rsh/        | #
 # +--------------------------------------------+ #
 
 use WWW::Mechanize;
@@ -50,8 +50,8 @@ pergunta();
 sub banner {
 	print GREEN BOLD" _______            __ __   __              
 |_     _|.--.--.--.|__|  |_|  |_.-----.----.
-  |   |  |  |  |  ||  |   _|   _|  -__|   _|  Created by @";
-  print "an0nks & @";
+  |   |  |  |  |  ||  |   _|   _|  -__|   _|  Created by Arsh Leak & ";
+  print "@";
   print "Kouback_TR_
   |___|  |________||__|____|____|_____|__|  \n--------------------------------------------------------------------------------\n";
   print RESET;
